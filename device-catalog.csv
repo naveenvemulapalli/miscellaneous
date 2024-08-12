@@ -1,0 +1,16 @@
+s.No,device-id,brand,name,ram,storage,processor,color,price,availability
+1,p001,Samsung,Galaxy A1,4,256,Qualcomm,blue,12000,In Stock
+2,p002,Samsung,Galaxy A2,8,128,Qualcomm,blue,56000,In Stock
+3,p003,Samsung,Galaxy A2,8,128,Qualcomm,red,60000,Out of Stock
+4,p004,Apple,Iphone 14,8,128,Intel,blue,60000,In Stock
+5,p005,Apple,Iphone 14,8,128,Intel,silver,61000,In Stock
+6,p006,Apple,Iphone 15,16,512,Intel,blue,120000,Out of Stock
+7,p007,Apple,Iphone 15,16,512,Intel,silver,125000,In Stock
+8,p008,Poco,Note 5,6,64,Snapdragon,blue,12000,Out of Stock
+9,p009,Poco,Note 6,6,128,Snapdragon,blue,18000,Out of Stock
+10,p010,Poco,Note 6,6,128,Snapdragon,silver,18000,In Stock
+11,p011,Lava,Stream 1,4,32,Qualcomm,blue,10000,In Stock
+12,p012,Lava,Opious,4,128,Intel,blue,15000,Out of Stock
+13,p013,OnePlus,Legend 8,8,128,Snapdragon,blue,32000,In Stock
+14,p014,OnePlus,Legend 8,8,128,,red,32500,Out of Stock
+15,p015,OnePlus,Note Plus 9,8,256,Intel,blue,43000,Out of Stock
